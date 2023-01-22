@@ -1,4 +1,4 @@
-(* Main loop of the game *)
+(* Main loop of the poker game *)
 open Pocker
 open Game
 open Print
