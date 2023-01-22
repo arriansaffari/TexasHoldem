@@ -1,4 +1,4 @@
-(** The card module includes all the important cards functionality. This goes
+(** The card module includes all the functionality for drawing cards. This goes
     all the way from defining what a card is to functions to pretty print the 
     cards and functions to rank different poker hands. *)
 
