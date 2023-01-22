@@ -1,0 +1,6 @@
+(library
+ (name pocker)
+ (public_name Pocker)
+ (instrumentation
+  (backend bisect_ppx))
+ (libraries yojson spectrum))
