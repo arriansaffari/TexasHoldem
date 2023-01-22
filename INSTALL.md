@@ -14,4 +14,4 @@ opam install spectrum
 make compile
 
 # Play !
-make play 
+make play
