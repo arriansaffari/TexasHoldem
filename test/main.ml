@@ -1,9 +1,7 @@
 (** 
-    This testing approach demonstrates an overall correctness of thte system 
-    because I chose to automate both glass and black box testing for the 
-    fundamental functions that enable me to manipulate the deck, while manually 
-    simulating the game enviornment several times to ensure a smooth and correct
-    progression of my rounds. 
+    Testing approach: 
+    1. Verify intended functionality of the random functions.
+    2. Ensure community cards and pocket hands are drawn/modified correctly
 *)
 
 open OUnit2
